@@ -6,12 +6,13 @@
 
 | 日期 | 版本 | 归档文件 | 页数 | SHA-256 |
 |---|---:|---|---:|---|
+| 2026-10-24 | v1 | [Weekly_Long_Read_2026-10-24.pdf](2026/Weekly_Long_Read_2026-10-24.pdf) | 14 | `4ebb1f5cc07431eab8a20cc3da2ff32a0b9c89b819bba19bebc512eb9e1fbebc` |
 | 2026-10-17 | v1 | [Weekly_Long_Read_2026-10-17.pdf](2026/Weekly_Long_Read_2026-10-17.pdf) | 13 | `feb18ef1c95925f7fc5839b1422fc57babab3bfa045f60eaa69436fdc0ed43cb` |
 | 2026-09-29 | legacy | [每周好文%202026-09-29.pdf](2026/%E6%AF%8F%E5%91%A8%E5%A5%BD%E6%96%87%25202026-09-29.pdf) | 10 | `579f02572655dd4421023b340c64385c84f728e472fa510a60fbcc18cdd294a9` |
 
 ## 最新一期
 
-- [latest.pdf](latest.pdf) 与 2026-10-17 v1 归档文件逐字节一致。
+- [latest.pdf](latest.pdf) 与 2026-10-24 v1 归档文件逐字节一致。
 - 2026-10-03、2026-10-10 两期目前尚未归档到本分支。
 
 ## 归档说明
