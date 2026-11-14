@@ -6,6 +6,7 @@
 
 | 日期 | 版本 | 归档文件 | 页数 | SHA-256 |
 |---|---:|---|---:|---|
+| 2026-11-14 | v1 | [Weekly_Long_Read_2026-11-14.pdf](2026/Weekly_Long_Read_2026-11-14.pdf) | 14 | `10af830d90d92533fcf28a8d873eb73985320e6b4e2e676f67a55156da9efe61` |
 | 2026-11-07 | v1 | [Weekly_Long_Read_2026-11-07.pdf](2026/Weekly_Long_Read_2026-11-07.pdf) | 14 | `ca19b29319b29241988c84ed99d0c522548418db65589e4583bcf37c92281787` |
 | 2026-10-31 | v1 | [Weekly_Long_Read_2026-10-31.pdf](2026/Weekly_Long_Read_2026-10-31.pdf) | 14 | `11ae3d254092493677c0142e92e2d1bcbe1bf52c9571bef1b3938198c8678885` |
 | 2026-10-24 | v1 | [Weekly_Long_Read_2026-10-24.pdf](2026/Weekly_Long_Read_2026-10-24.pdf) | 14 | `4ebb1f5cc07431eab8a20cc3da2ff32a0b9c89b819bba19bebc512eb9e1fbebc` |
@@ -14,7 +15,7 @@
 
 ## 最新一期
 
-- [latest.pdf](latest.pdf) 与 2026-11-07 v1 归档文件逐字节一致。
+- [latest.pdf](latest.pdf) 与 2026-11-14 v1 归档文件逐字节一致。
 - 2026-10-03、2026-10-10 两期目前尚未归档到本分支。
 
 ## 归档说明
