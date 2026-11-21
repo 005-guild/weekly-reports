@@ -6,14 +6,16 @@
 
 ## 最新一期
 
-- 报告日期：2026-11-21；正式归档版 v1；18 篇；16 页。
+- 报告日期：2026-11-21；正式归档版修订 v2（来源索引分页优化）；18 篇；16 页。
 - [最新一期 PDF](latest.pdf)
-- 归档路径：[2026/Daily_Brief_2026-11-21.pdf](2026/Daily_Brief_2026-11-21.pdf)
-- 原文件名：每日简报 2026-11-21.pdf；文件大小：532,053 字节。
-- SHA-256：`73918fefa8047d1bea07735803f63032c442924c6a826da5075b32e6754bf05d`
-- 验收：PDF 1.7、A4、无密码、无 JavaScript；5 组 Noto Sans / Noto Sans CJK SC 字体全部嵌入，中文可搜索，43 处链接；PDFium 与 Poppler 完整渲染全部 16 页；ASCII 与中文 PDF 逐字节相同。
+- 归档路径：[2026/Daily_Brief_2026-11-21_v2.pdf](2026/Daily_Brief_2026-11-21_v2.pdf)
+- 原文件名：每日简报 2026-11-21.pdf；文件大小：532,118 字节。
+- SHA-256：`885cd4a144f0131db0bc3c33c49dd4d9e6fcb5ad796a843da6bd4adb5d47b5e4`
+- 验收：PDF 1.7、A4、无密码、无 JavaScript；5 组 Noto Sans / Noto Sans CJK SC 字体全部嵌入，中文可搜索，44 处链接；PDFium 与 Poppler 完整渲染全部 16 页；ASCII 与中文 PDF 逐字节相同。
 
 ## PDF 文件
+
+- [Daily_Brief_2026-11-21_v2.pdf](2026/Daily_Brief_2026-11-21_v2.pdf) · 2026-11-21 · 来源索引分页修订 v2 · 18 篇 · 16 页 · SHA-256 `885cd4a144f0131db0bc3c33c49dd4d9e6fcb5ad796a843da6bd4adb5d47b5e4`
 
 - [Daily_Brief_2026-11-21.pdf](2026/Daily_Brief_2026-11-21.pdf) · 2026-11-21 · 正式归档版 v1 · 18 篇 · 16 页 · SHA-256 `73918fefa8047d1bea07735803f63032c442924c6a826da5075b32e6754bf05d`
 
